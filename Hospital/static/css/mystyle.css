@@ -1,0 +1,28 @@
+.nav-link{
+    color: white !important;
+}
+
+.nav-link:hover{
+    color:black !important;
+    background-color: lightblue;
+    /* border-radius: 25%; */
+}
+.navbar-brand:hover{
+    color: yellow !important;
+    font-weight: 30px;
+}
+.mydivstyle:hover{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+    transform:translateY(-20px);
+}
+body{
+    background-image: url('"C:\Users\Manoj1003\OneDrive\Documents\durgamma.jpg"');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.rounded{
+    border-top: 8px solid lightgreen;
+    border-radius: 5px;
+}
